@@ -14,5 +14,6 @@ This method only considers MS1 features for clustering and finding the unique bi
 - Duplicate or triplicate samples are recommended.
 - Peak intensities do matters in current version of type 1 ChemSim studies. 
 
-* The full codes and example data will be uploaded after the article is published.
-* The currently shown data has had the sensitive parts removed.
+
+The full codes and example data will be uploaded after the article is published.
+The currently shown data has had the sensitive parts removed.
